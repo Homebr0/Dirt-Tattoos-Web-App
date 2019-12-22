@@ -12080,6 +12080,7 @@
       "Microsoft.AspNetCore.App >= 2.2.0",
       "Microsoft.AspNetCore.Razor.Design >= 2.2.0",
       "Microsoft.EntityFrameworkCore >= 2.2.0",
+      "Microsoft.EntityFrameworkCore.SqlServer >= 2.2.0",
       "Microsoft.NETCore.App >= 2.2.0"
     ]
   },
@@ -12136,6 +12137,10 @@
             "version": "[2.2.0, )"
           },
           "Microsoft.EntityFrameworkCore": {
+            "target": "Package",
+            "version": "[2.2.0, )"
+          },
+          "Microsoft.EntityFrameworkCore.SqlServer": {
             "target": "Package",
             "version": "[2.2.0, )"
           },
