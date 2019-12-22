@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
@@ -14,6 +15,7 @@ namespace WebTattoo.Models.Tables
 
         [Column(TypeName ="nvarchar(250)")]
         [Required]
+        [DisplayName("Name")]
         public string FullName { get; set; }
 
         [Column(TypeName ="varchar(30)")]
@@ -22,6 +24,7 @@ namespace WebTattoo.Models.Tables
 
         [Column(TypeName ="varchar(15)")]
         [Required]
+        [DisplayName("Phone Number")]
         public string PhoneNum { get; set; }
 
 

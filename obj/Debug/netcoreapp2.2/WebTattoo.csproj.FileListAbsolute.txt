@@ -28,3 +28,8 @@ C:\Users\Jason\Desktop\Projects\WebTattoo\WebTattoo\obj\Debug\netcoreapp2.2\WebT
 C:\Users\Jason\Desktop\Projects\WebTattoo\WebTattoo\obj\Debug\netcoreapp2.2\WebTattoo.dll
 C:\Users\Jason\Desktop\Projects\WebTattoo\WebTattoo\obj\Debug\netcoreapp2.2\WebTattoo.pdb
 C:\Users\Jason\Desktop\Projects\WebTattoo\WebTattoo\obj\Debug\netcoreapp2.2\WebTattoo.csproj.CopyComplete
+C:\Users\Jason\Desktop\Projects\WebTattoo\WebTattoo\obj\Debug\netcoreapp2.2\Razor\Views\Client\Create.g.cshtml.cs
+C:\Users\Jason\Desktop\Projects\WebTattoo\WebTattoo\obj\Debug\netcoreapp2.2\Razor\Views\Client\Delete.g.cshtml.cs
+C:\Users\Jason\Desktop\Projects\WebTattoo\WebTattoo\obj\Debug\netcoreapp2.2\Razor\Views\Client\Details.g.cshtml.cs
+C:\Users\Jason\Desktop\Projects\WebTattoo\WebTattoo\obj\Debug\netcoreapp2.2\Razor\Views\Client\Edit.g.cshtml.cs
+C:\Users\Jason\Desktop\Projects\WebTattoo\WebTattoo\obj\Debug\netcoreapp2.2\Razor\Views\Client\Index.g.cshtml.cs

@@ -12,6 +12,7 @@ namespace WebTattoo.Models.Tables
         public int AppId { get; set; }
         public int ClientId { get; set; }
         public DateTime AppDate { get; set; }
+        [Required]
         public string Comment { get; set; }
 
         public virtual Client Client { get; set; }
