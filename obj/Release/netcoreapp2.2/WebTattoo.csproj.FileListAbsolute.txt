@@ -32,3 +32,4 @@ C:\Users\Jason\Desktop\Projects\WebTattoo\WebTattoo\obj\Release\netcoreapp2.2\We
 C:\Users\Jason\Desktop\Projects\WebTattoo\WebTattoo\obj\Release\netcoreapp2.2\WebTattoo.dll
 C:\Users\Jason\Desktop\Projects\WebTattoo\WebTattoo\obj\Release\netcoreapp2.2\WebTattoo.pdb
 C:\Users\Jason\Desktop\Projects\WebTattoo\WebTattoo\obj\Release\netcoreapp2.2\WebTattoo.csproj.CopyComplete
+C:\Users\Jason\Desktop\Projects\WebTattoo\WebTattoo\obj\Release\netcoreapp2.2\WebTattoo.csprojAssemblyReference.cache
